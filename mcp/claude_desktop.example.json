@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "fortyguard": {
+      "command": "fortyguard-mcp",
+      "env": {
+        "FORTYGUARD_API_KEY": "YOUR_API_KEY"
+      }
+    }
+  }
+}

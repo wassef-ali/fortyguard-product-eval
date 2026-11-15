@@ -1,0 +1,8 @@
+.env
+outputs/
+results/
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+FEEDBACK.md
